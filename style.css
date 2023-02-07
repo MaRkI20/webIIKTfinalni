@@ -1,8 +1,18 @@
-h1 {
-    color: blueviolet;
-}
+
 
 #id1 {
-    background-color: aquamarine;
+    background-color: purple;
 }
-    
+
+.class1 {
+    color: #798927;
+}
+
+a {
+background-color: orange;
+}
+
+.class2.class3 {
+
+    color: red;
+}
