@@ -22,5 +22,6 @@ background-color: orange;
 }
 
 .class1 {
-    background-image:  url("images/2021/random2.png");
+    background-image:  url("images/2021/DSC_1493.jpg");
+    background-repeat: no-repeat;
 }
