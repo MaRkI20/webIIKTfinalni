@@ -2,7 +2,7 @@
 
 #id1 {
     background-color: purple;
-}
+}/* změna barvy textu na fialovou u id1*/
 
 .class1 {
     color: #798927;
@@ -21,7 +21,7 @@ background-color: orange;
     background-color: blue;
 }
 
-.class1 {
+/*.class1 {
     background-image:  url("images/2021/DSC_1493.jpg");
     background-repeat: no-repeat;
-}
+}*/
