@@ -20,3 +20,7 @@ background-color: orange;
 .class2.class3 p {
     background-color: blue;
 }
+
+.class1 {
+    background-image:  url("images/2021/random2.png");
+}
