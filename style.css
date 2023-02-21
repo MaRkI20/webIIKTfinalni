@@ -8,18 +8,8 @@
     color: #798927;
 }
 
-.class2.class3 a {
-background-color: orange;
-}
 
-.class2.class3 {
 
-    color: red;
-}
-
-.class2.class3 p {
-    background-color: blue;
-}
 
 /*.class1 {
     background-image:  url("images/2021/DSC_1493.jpg");
@@ -41,3 +31,22 @@ background-color: orange;
     border: 10px dashed black;
 
   } 
+
+a:link {
+    color: blue;
+    text-underline-offset: none
+    ;
+}
+a:visited {
+    color: red;
+    text-underline-position: below;
+}
+a:hover {
+    color: green
+    ;
+}
+a:active {
+    color: purple;
+}
+
+
