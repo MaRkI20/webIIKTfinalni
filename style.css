@@ -35,3 +35,11 @@ background-color: orange;
 .class5 {
     border: 10px dashed black;
 }
+
+.class6 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+
+  } 
