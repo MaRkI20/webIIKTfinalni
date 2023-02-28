@@ -73,4 +73,7 @@ li {
 
 #id1nov {
     background-color: aquamarine;
-}
+    width: 50%;
+    height: 100px;
+    overflow: visible;/*ukazuje co se bude dít s textem který se nevejde do background color*/
+  }
