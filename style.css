@@ -62,3 +62,7 @@ li {
     padding: 1px;
 
 }
+
+#mojeIDne {
+    display: block;
+}/*inline elementy nemůžou mít mnergin a peddingf*/
