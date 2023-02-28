@@ -34,12 +34,11 @@
 
 a:link {
     color: blue;
-    text-underline-offset: none
-    ;
+    text-decoration: none;
 }/*lik když je link*/
 a:visited {
     color: red;
-    text-underline-position: below;
+    
 }/*link po tom co ho navštívíme*/
 a:hover {
     color: green
