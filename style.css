@@ -66,3 +66,7 @@ li {
 #mojeIDne {
     display: block;
 }/*inline elementy nemůžou mít mnergin a peddingf*/
+
+#kontejner1 {
+    margin-bottom: 1000px;
+}
